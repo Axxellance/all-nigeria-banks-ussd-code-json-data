@@ -9,17 +9,17 @@
           "description": "Access Bank plc, commonly known as Access Bank, is a Nigerian multinational commercial bank, owned by Access Bank Group. It is licensed by the Central Bank of Nigeria, the national banking regulator. Originally a corporate bank, they expanded into personal and business banking in 2012. \n\nAccess Bank and Diamond Bank merged on April 1, 2019. In conclusion of its merger with Diamond Bank, Access Bank unveiled its new logo, signalling the commencement of a new enlarged banking entity. The bank employs more than 28,000 people in 2021, After the merger, with more than 42 million of customers, Access Bank plc became the largest bank in Africa by customer base, and the largest bank in Nigeria by asset. \n\nAs of September 2021, in addition to Nigeria, Access Bank plc has subsidiaries in Mozambique, Zambia, Congo, Sierra Leone, Rwanda, Gambia, Ghana, Kenya, South Africa, and in the United Kingdom. Access Bank Group also maintains representative offices in China, India, Lebanon and United Arab Emirates.",
           "codes": [
             {
-              "title": "Access Bank USSD ussd Registration",
+              "title": "Access Bank USSD Code Registration",
               "ussd": "*901#",
               "description": "To start using the Access USSD ussd, you’ll need to enroll and activate it on the mobile number linked to your Access bank account. \n\nAccess bank transfer USSD ussd, simply dial *901#, simply follow the steps below: \n\n-Dial *901# with your registered Access bank phone number. \n-Click on ‘Transfer’. \n-Enter the last six (6) digits of your Debit Card number (Note, you will be prompted to input your Date of Birth if you do not have an active debit card). \n-Next, enter your Access account number. \n-Create a 4-digit PIN. \n\nNow you’re done with that Access short ussd registration."
             },
             {
-              "title": "Access bank USSD",
+              "title": "Access Bank USSD",
               "ussd": "*901#",
               "description": "Access bank short ussd allows you to perform transactions like transfer money, check account balance, airtime top-up, pay bills, get account statement, BVN, and a lot more. *901# Access USSD ussd is the convenient, secure, and easy way to perform your banking transactions without an internet-enabled device that features an online connection."
             },
             {
-              "title": "Access diamond USSD",
+              "title": "Access Diamond USSD",
               "ussd": "*426#",
               "description": "Access / Diamond bank short ussd allows you to also perform transactions like transfer money, check account balance, airtime top-up, pay bills, get account statement, BVN, and a lot more, just like the Direct access bank ussd ussd."
             },
@@ -34,17 +34,17 @@
               "description": "No description available yet :("
             },
             {
-              "title": "Self-airtime purchase",
+              "title": "Self-airtime Purchase",
               "ussd": "*901*Amount#",
               "description": "The Access bank ussd to buy airtime for self is *901*Amount# (example, *901*100#)"
             },
             {
-              "title": "Airtime to others",
+              "title": "Airtime to Others",
               "ussd": "*901*Amount*Phone Number#",
               "description": "Access bank bank ussd to buy airtime for others like friends and family is *901*Amount*Phone Number# (example, *901*100*08012345678#)"
             },
             {
-              "title": "Data purchase",
+              "title": "Data Purchase",
               "ussd": "*901*8#",
               "description": "Access bank bank ussd to buy data for yourself and others like friends and family is *901*8#"
             },
@@ -136,9 +136,63 @@
           "description": "Fidelity Bank, also known as Fidelity Bank Plc., is a commercial bank in Nigeria. It is licensed as a commercial bank with international authorization, by the Central Bank of Nigeria (CBN), the central bank and national banking regulator. Fidelity Bank has grown from a marginal player in 1987, into a stable and respectable banking institution. Notably in 2005, Fidelity Bank acquired FSB International Bank Plc (“FSB”) and Manny Bank Plc (“Manny”) to create one of the top 10 Nigerian banks. In 2011, the Bank was ranked the 7th most capitalized bank in Nigeria, 25th most capitalized bank on the African continent.[citation needed] Also, following its renewed retail and digital banking drive, Fidelity Bank was ranked the 4th best bank in Nigeria in the retail market segment in the KPMG Banking Industry Customer Satisfaction Survey (BICSS) in 2017. As of December 2017, Fidelity Bank Plc. had total assets estimated at over US$4.2 billion (NGN:1.4 + trillion), and shareholders' equity in excess of US$610 million (NGN:203 billion). The Bank serves its 4 + million customers through its multiple distribution channels including 240 business offices, 775 ATMs and 4,346 POSs. The Bank currently has over 400,000 diverse shareholders. It was listed on the Nigerian Stock Exchange in May 2005 and has consistently paid dividends annually in the last 12 years even in the most turbulent periods in the Nigerian Banking Industry. According to BGL Plc, Fidelity Bank Plc had a market capitalisation of NGN:37,072,109,685.76",
           "codes": [
             {
-              "title": "",
-              "ussd": "",
-              "description": ""
+              "title": "Fidelity Bank USSD Code Activation",
+              "ussd": "*770#",
+              "description": "As an individual account holder in Fidelity Bank, you are already profile to be able to use the *770# service. However, you must now activate your access by going through the following steps below if you wish to use the *770# for your day-to-day transactions. \n\nHere are the step-by-step procedures to register on Fidelity Bank *770# USSD code: \n\n-Dial *770*00*#\n-Enter your account number\n-Create PIN\n-Confirm PIN\n-You will be required to enter an alternative phone number. Input ‘0’ if you don’t have one.\n-Enter PIN\n-Submit"
+            },
+            {
+              "title": "How to Transfer to Other Fidelity Bank Account",
+              "ussd": "*770*Destination Account*Amount#",
+              "description": "You can transfer your funds to other Fidelity Bank accounts as well as other banks. Here is how to transfer your funds using *770#. You just need to follow any of the two steps below:\n\n-Dial *770#\n-Press ‘1’ to proceed\n-Select ‘4’ from the menu displayed\n-Enter amount\n-Enter destination account number\n-You will be asked if you want to save beneficiary or not\n-Select destination bank\n-Confirm the fee\n-Submit\n\nOR\n\nSimply dial  *770*Destination Account*Amount#\n\n The fees varies from N0-N5,000 – N10, N5,000 and above – N25"
+            },
+            {
+              "title":"Pay Bills",
+              "ussd":"*770*Biller Code*Amount#",
+              "description":"You can also use your Fidelity Bank USSD code *770# to pay all your TV, electricity, and all other utility bills. Easy and convenient.\n\n-Dial *770#\n-Choose Pay bills\n-Choose the biller name\n-Choose your plan\n-Enter amount\n-Submit\n\nYou can do this up here or simply dial *770*Biller Code*Amount#\n\nNote that this will cost you N105"
+            },
+            {
+              "title":"Self Recharge",
+              "ussd":"*770*Amount#",
+              "description":"You can load airtime for your self, simple follow this procedure:\n\n-Dial *770#\n-Choose Airtime\n-Enter Your phone’\n-Enter amount\n\nYou can also load airtime by dialing *770*AMOUNT#"
+            },
+            {
+              "title":"Recharge for Others",
+              "ussd":"*770*Phone Number*Amount#",
+              "description":"You can load airtime for others, simple follow this procedure:\n\n-Dial *770#\n-Choose Airtime\n-Enter their phone’\n-Enter amount\n\nYou can also load airtime by dialing *770*PHONE NUMBER*AMOUNT#"
+            },
+            {
+              "title":"Check Balance",
+              "ussd":"*770*0#",
+              "description":"How to Check Balance on Fidelity Bank:\n\n-Dial *770*0#\n-Choose Balance\n-Enter PIN\n\nyou can also check your balance by dialing *770*0#\n\nNote that this will cost you N20"
+            },
+            {
+              "title":"Open a Fidelity Bank Account",
+              "ussd":"*770*01#",
+              "description":"If you are not yet a fedelity bank account user, you can open a fedelity bank account with on your phone, simply dial *770*01# and follow the on screen message:\n\n-Select an account opening option (Select Option 1 if you have your BVN and Option 2 if you don’t)\n-Enter your first name First Name\n-Enter your middle name\n-Enter your last name\n-Select your gender\n-Enter your account officer code or press ‘0’ if you don’t have one\n-Enter your date of birth\n-Press 1 to confirm your details and proceed\n\nBut you will still have to go to their bank to complete your registration"
+            },
+            {
+              "title":"Block Card",
+              "ussd":"*770*911#",
+              "description":"If you lost your credit card or it got stolen, then you can block your credit card using the above USSD code"
+            },
+            {
+              "title":"Get Aaccount Number/BVN",
+              "ussd":"*770*5#",
+              "description":"If you need to check your account number or your BVN, simple use this USSD code above"
+            },
+            {
+              "title":"Cardless Withdrawal",
+              "ussd":"*770*8*Amount#",
+              "description":"If by chance you find your self without your ATM card and you want to make a withdraw, then this code is what you will need"
+            },
+            {
+              "title":"Change PIN",
+              "ussd":"*770*00#",
+              "description":"Use this code above to change your USSD bank PIN"
+            },{
+              "title":"Account Blocking",
+              "ussd":"*770*Phone Number#",
+              "description":""
             }
           ]
         },
