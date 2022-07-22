@@ -202,17 +202,153 @@
           "description": "First City Monument Bank (FCMB), a member of FCMB Group Plc, is a financial services holding company headquartered in Lagos. \n\nFCMB Group Plc has nine subsidiaries divided among three business groups: commercial and retail banking, investment banking, and asset and wealth management. As of December 2020, the Group's total assets were valued at US $5 billion (NGN: 2 trillion). \n\nThe entity from which the bank was founded, City Securities Limited (CSL), was established in 1977 by Oloye Subomi Balogun, the Otunba Tunwashe of Ijebu, a Yoruba traditional aristocrat. \n\nFirst City Merchant Bank was established in 1982 with seed capital from CSL. It was incorporated as a private limited liability company on 20 April 1982 and granted a banking license on 11 August 1983. It was the first bank to be established in Nigeria without government or foreign support. \n\nIn 2001, the name of the bank was changed from First City Merchant Bank to First City Monument Bank Limited following the bank's transformation to a universal bank. A new subsidiary, FCMB Capital Markets Limited, was formed to support its corporate finance activities. \n\nOn 15 July 2004, FCMB changed its status from a private limited liability company to a public limited liability company and was listed on the Nigerian Stock Exchange (NSE) by introduction on 21 December 2004.",
           "codes": [
             {
-              "title":"",
-              "ussd":"",
-              "description":""
+              "title":"How to Enroll for FCMB USSD Code",
+              "ussd":"*329#",
+              "description":"FCMB USSD is available to all Retail and Personal Business Account customers of FCMB. When interested, users must register to get started by dialing *329#.\n\n-Dial *329#, register using any phone type and sim that link to bank account\n-Follow the prompts message\n-Enter your Debit or ATM card last digits\n-Create 4 digits secret Pin."
+            },
+            {
+              "title":"How to Create FCMB Transaction Code/PIN",
+              "ussd":"*329*0#",
+              "description":"How to Enroll/Activate/Reset FCMB Transaction Code to transfer up to N500,000.00 daily\n\n-Dial *329*0#\n-Select Create/Reset code\n-Select your ATM Card (for customers with multiple cards)\n-Enter your ATM Card PIN\n-Create a 4-digit Transaction Code, e.g., 1234\n-Enter your USSD PIN\n-Transaction code created successfully"
+            },
+            {
+              "title":"How to transfer money to FCMB",
+              "ussd":"*329*Amount*Account number#",
+              "description":"To transfer money from your FCMB account to other FCMB bank in Nigeria dial the following code from your register phone that is link to your bank account\n\n-Dial *329*Amount*Account number# to transfer funds.\n\nExample:{*329*3000*4012345679#} Also you can Dial *329# and follow the prompt message"
+            },
+            {
+              "title":"Buy Airtime for Self",
+              "ussd":"*329*Amount#",
+              "description":"Dial*329*Amount# to buy airtime for your FCMB registered mobile phone."
+            },
+            {
+              "title":"Buy Airtime for Others",
+              "ussd":"*329*Amount*Mobile number#",
+              "description":"Dial *329*Amount*Mobile number# to buy airtime other mobile phones."
+            },
+            {
+              "title":"How to Check Balance",
+              "ussd":"*329*00#",
+              "description":"Dial *329*00# to check balance"
+            },
+            {
+              "title":"How to Buy Data on Any Phone",
+              "ussd":"*329*1*Mobile Number#",
+              "description":"Dial *329*1*Mobile Number# to buy data on any phone."
+            },
+            {
+              "title":"Pay for DSTv or GOTv Subscription",
+              "ussd":"*329*2*Amount*Smartcard Number#",
+              "description":"Dial *329*2*Amount*Smartcard Number# to pay for DSTv or GOTv subscription."
+            },
+            {
+              "title":"How to Pay Bills",
+              "ussd":"*329#",
+              "description":"Dial *329# and choose Pay Bills. "
+            },
+            {
+              "title":"Block Debit Card",
+              "ussd":"*329#",
+              "description":"-Dial *329#\n-select self-service\n-select block card"
+            },
+            {
+              "title":"Block Account Number",
+              "ussd":"*329#",
+              "description":"-Dial *329#\n-select self-service\n-select block account to block account"
+            },
+            {
+              "title":"Block USSD Profile OR Bank Account",
+              "ussd":"*329*911#",
+              "description":"Simply dial *329*911# from either Registered or Unregistered number."
+            },
+            {
+              "title":"Link BVN",
+              "ussd":"*329#",
+              "description":"-Dial *329#\n-select self-service\n-select link BVN to link BVN"
+            },
+            {
+              "title":"Get Statement of Account",
+              "ussd":"*329#",
+              "description":"-Dial *329#\n-select statement\n-select full statement\n-then select duration (up to 6 months)\n\nYour statement will be sent to your registered email address instantly."
+            },
+            {
+              "title":"How to View Recent Transaction",
+              "ussd":"*329#",
+              "description":"-Dial *329#\n-select statement\n-select mini statement to view your last five (5) transactions instantly."
             }
           ]
         },
         "First Bank of Nigeria Limited": {
-          "website": "https://ibank.firstbanknigeria.com/",
+          "website": "https://www.firstbanknigeria.com",
           "image": "https://raw.githubusercontent.com/Axxellance/all-nigeria-banks-ussd-code-json-data/main/imgs/commercial_bank/First_Bank_of_Nigeria_logo.png",
-          "description": "First Bank of Nigeria Limited (First Bank) is a Nigerian multinational bank and financial services company headquartered in Lagos, Nigeria. It is the premier bank in West Africa. First Bank of Nigeria Limited operates as a parent company in Nigeria, with the subsidiaries 'FBN Bank' in the Republic of Congo, Ghana, The Gambia, Guinea, Sierra-Leone and Senegal; FBN Bank UK Limited in the United Kingdom with a branch in Paris; First Bank Representative Office in Beijing to capture trade-related business between geographies. First Bank also operates First Pension Custodian Nigeria Limited, Nigeria’s foremost pension custodian. The teeming customers of the First Bank Group are serviced from a network of over 700 business locations across Africa. To promote financial inclusion and reach the unbanked, First Bank has an extensive Agent Banking network, with over 53,000 locations across Nigeria. The Bank specializes in retail banking and has the largest client base in West Africa, with over 18 million customers. For eight consecutive years (2011 - 2018) First Bank Nigeria received the Best Retail Bank in Nigeria award by The Asian Banker. First Bank as a Group employs over 16,000 staff, and owns a multiple 'Best Place to Work awardee'. It operates four key Strategic Business Units (SBUs) – Retail Banking, Corporate Banking, commercial Banking, and Public Sector Banking. It was previously structured as an operating holding company before the implementation of a non-operating Holding Company structure (FBN Holdings) in 2011/2012.",
-          "codes": []
+          "description": "First Bank of Nigeria Limited (First Bank) is a Nigerian multinational bank and financial services company headquartered in Lagos, Nigeria. It is the premier bank in West Africa. \n\nFirst Bank of Nigeria Limited operates as a parent company in Nigeria, with the subsidiaries 'FBN Bank' in the Republic of Congo, Ghana, The Gambia, Guinea, Sierra-Leone and Senegal; FBN Bank UK Limited in the United Kingdom with a branch in Paris; First Bank Representative Office in Beijing to capture trade-related business between geographies. \n\nFirst Bank also operates First Pension Custodian Nigeria Limited, Nigeria’s foremost pension custodian. The teeming customers of the First Bank Group are serviced from a network of over 700 business locations across Africa. \n\nTo promote financial inclusion and reach the unbanked, First Bank has an extensive Agent Banking network, with over 53,000 locations across Nigeria. \n\nThe Bank specializes in retail banking and has the largest client base in West Africa, with over 18 million customers. For eight consecutive years (2011 - 2018) First Bank Nigeria received the Best Retail Bank in Nigeria award by The Asian Banker. \n\nFirst Bank as a Group employs over 16,000 staff, and owns a multiple 'Best Place to Work awardee'. It operates four key Strategic Business Units (SBUs) – Retail Banking, Corporate Banking, commercial Banking, and Public Sector Banking. \n\nIt was previously structured as an operating holding company before the implementation of a non-operating Holding Company structure (FBN Holdings) in 2011/2012.\n\nAttribute: https://en.wikipedia.org/",
+          "codes": [
+            {
+              "title":"Activate FirstBank USSD Code",
+              "ussd":"*894*0#",
+              "description":"To activate FirstBank USSD quick banking service is quite easy. Simply follow the guidelines below to learn how to register and activate this mobile banking service:\n\n-Dial *894*0# and a list of masked debit card numbers linked to your account will be displayed\n-Select your preferred debit card\n-Enter the 4-digit Personal Identification Number (PIN) for the selected debit card\n-Create a new 5-digit PIN and your USSD code for First Bank registration is complete.\n\nAttribute: https://www.scholarshipair.com"
+            },
+            {
+              "title":"How to Transfer Money",
+              "ussd":"*894*Amount*Account Number#",
+              "description":"As long as you are registered for FirstBank USSD transfer, you can use this FirstBank transfer code without ATM or the mobile app. All you have to do is dial the FirstBank USSD transfer code. \n\nThe code to transfer money from first bank to other banks, or other FirstBank accounts is *894*Amount*Account Number#. Follow the next instructions by selecting the beneficiary bank, confirming the amount, beneficiary name and entering your five-digit PIN. \n\nFor example, dial *894*7000*0123456789# to transfer 7,000 naira to 0123456789. Please make sure that you enter the correct beneficiary details including account number, bank name and your transfer pin to validate the transaction. \n\nNote: The USSD code for FirstBank transfer to other banks is the same code to transfer money from FirstBank to other FirstBank accounts.\n\nAttribute: https://www.scholarshipair.com"
+            },
+            {
+              "title":"Link Your BVN to Firstbank",
+              "ussd":"*894*BVN# ",
+              "description":"If you haven't linked your BVN to your First Bank account, the easiest and most suitable way to do this is by dialing the official USSD code on your mobile phone.\n\nFollow these easy steps to link your BVN to your First Bank account on your phone:\n\n-Ensure that you use the mobile number used during bank account registration.\n-Dial *894*BVN# For example, if your BVN is 57370, then you will have to dial *894*57370#\n-You will receive a message from First Bank on your mobile phone confirming that you have linked your BVN to your First Bank account successfully.\n\nAttribute: https://www.scholarshipair.com"
+            },
+            {
+              "title":"Check BVN Details",
+              "ussd":"*565*0#",
+              "description":"If you have linked your BVN to your First Bank account, and you need to see your BVN details, you can simply dial *565*0# which is the USSD code for BVN FirstBank, on any mobile device to access your BVN details.\n\nAttribute: https://www.scholarshipair.com"
+            },
+            {
+              "title":"How to Check Balance",
+              "ussd":"*894*00#",
+              "description":"You may need to check your account balance to be sure of the exact figures you have in your account sometimes, and you can do this by dialing the FirstBank account balance USSD code. Some people even go as far queuing up to use ATM machines just to see their balance, when they can simply dial the FirstBank USSD code to check account balance. \n\nThe FirstBank USSD code for account balance is supported by all Nigerian mobile network. All you have to do is dial the FirstBank USSD balance check code from an account linked phone number. \n\nTo do this, dial *894*00# which is the code to check FirstBank account balance, and follow the instructions displayed on your screen. Then your account balance will be sent to you via SMS. \n\nNote: The USSD code for FirstBank account balance can only be dialed from a registered phone number that is linked to your FirstBank account, and this service incurs charges.\n\nAttribute: https://www.scholarshipair.com"
+            },
+            {
+              "title":"FirstBank Loan USSD Code",
+              "ussd":"*894*11# ",
+              "description":"Did you know that there is a USSD code to borrow money from FirstBank? If you need money to finance your business, or start up a building project, you can request a quick cash loan from First Bank by dialing the USSD code for FirstBank loan. \n\nFirstBank is one of the top banks in Nigeria that offers instant cash bank loans without paperwork or collateral with a low interest rates, and enables easy access to this service by dialing the FirstBank USSD code for loan. \n\nTo apply for any loan from FirstBank, simply dial the FirstBank USSD loan code *894*11# to get started. It's that easy! \n\nYou can also follow these steps to borrow money from FirstBank:\n\n-Dial the code *894#\n-select 3 (Get Loans)\n-The next menu will show your eligible loan amount\n-Type your desired amount and send\n-Interest rate, management fees and Insurance will be displayed\n-Input five digit transaction PIN to accept terms and conditions\n-The loan will then be disbursed into your salary account as soon as possible. \n\nNote: Your bank account must be a salary account that must have received salary for at least 6 months for you to be eligible for a loan from First Bank Nigeria PLC.\n\nAttribute: https://www.scholarshipair.com"
+            },
+            {
+              "title":"FirstBank Account Opening",
+              "ussd":"*894*0#",
+              "description":"Follow the step-by-step guidelines below to open a FirstBank account on your phone:\n\n-Dial *894*0# with the phone number linked to your First Bank account\n-a list of masked debit card numbers linked to your account will be displayed on the new screen\n-Select your preferred debit card from the list\n-Enter the 4-digit Personal Identification Number (PIN) for the selected debit card\n-Create a new 5-digit PIN that will he used to confirm and authenticate your transactions, and you have successfully opened a First Bank account on your phone.\n\nAttribute: https://www.scholarshipair.com"
+            },
+            {
+              "title":"Block ATM Card",
+              "ussd":"",
+              "description":"In cases of unauthorized withdrawal of funds from your account, or even displacing your ATM card might require you to take action by blocking your ATM card. However, for First Bank costumers, this comes in handy as you can do this by sending an SMS. All you have to do is send “BLOCK” to 30012 through SMS alert. \n\nThis SMS must be sent from the phone number linked to the affected bank account. Within 24 hours your ATM card will be blocked and you won't be able to withdraw or make payment with it again.\n\nAttribute: https://www.scholarshipair.com"
+            },
+            {
+              "title":"Buy Airtime for Self",
+              "ussd":"*894*Amount#",
+              "description":"Still on the 894 experience, you might need to purchase airtime for yourself or for friends and family. \n\nTo purchase airtime for yourself, simply dial the FirstBank airtime transfer code. Dial *894*Amount# to recharge for self. For example; *894*1000#, to buy 1000 naira airtime for your mobile number registered with FirstBank account.\n\nAttribute: https://www.scholarshipair.com"
+            },
+            {
+              "title":"Buy Airtime for Others",
+              "ussd":"*894*Amount*Phone Number#",
+              "description":"Still on the 894 experience, you might need to purchase airtime for yourself or for friends and family. \n\nTo recharge for others, dial *894*Amount*Phone Number# and enter five-digit PIN. For example; *894*1000*08012345678# and enter your five-digit PIN.\n\nAttribute: https://www.scholarshipair.com"
+            },
+            {
+              "title":"USSD Code for DStv Subscription",
+              "ussd":"*894*3*SmartCard Number#",
+              "description":"If your DStv subscription expires, there's no cause for alarm, as you can easily pay for it through FirstBank's 894 USSD code. \n\nTo top up subscription payments for your DStv cable service, simply dial *894*3*SmartCard Number# and follow the on-screen instructions.\n\nAttribute: https://www.scholarshipair.com"
+            },
+            {
+              "title":"USSD Code for GOtv Subscription",
+              "ussd":"*894*3*IUC Number#",
+              "description":"Just as in the case of DStv subscription payments, you can also dial the FirstBank GOtv subscription code to make GOtv subscription payments through FirstBank 894 USSD code. \n\nTo make payments for your GOtv cable service, dial *894*3*IUC Number# and follow the on-screen instructions.\n\nAttribute: https://www.scholarshipair.com"
+            },
+            {
+              "title":"USSD Code for Bet9ja",
+              "ussd":"*894#",
+              "description":"This section is for FirstBank costumers who also are football lovers seeking to gain reward for passion, but do not know that there's an easy way to fund their bet account without going to the bank. \n\nFunding your Bet9ja account using the First Bank USSD code makes it easy for you to deposit money into your Bet9ja account without the need to visit any FirstBank branch. \n\nTo fund your Bet9ja account, simply dial *894#, select pay merchant (Bet9ja/Lotto); enter your Bet9ja User ID; and input the amount. It's that simple.\n\nAttribute: https://www.scholarshipair.com"
+            }
+          ]
         },
         "Guaranty Trust Holding Company Plc": {
           "website": "https://www.gtbank.com",
