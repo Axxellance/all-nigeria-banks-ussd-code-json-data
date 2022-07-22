@@ -570,9 +570,129 @@
           "description": "United Bank for Africa Plc (UBA) is a Multinational pan-African financial services group headquartered in Lagos and known as Africa’s Global Bank. \n\nIt has subsidiaries in 20 African countries and offices in London, Paris and New York. In December 2021, UBA received its banking license to commence operations in the UAE. It is listed as commercial bank by the Central Bank of Nigeria. \n\nThe shares of stock of the group are listed on the Nigerian Stock Exchange, where they trade under the symbol: UBA. The Group Chairman of the bank is Tony Elumelu and the GMD/CEO is Kennedy Uzoka.\n\nAttribute: https://en.wikipedia.org",
           "codes": [
             {
-              "title":"",
-              "ussd":"",
-              "description":""
+              "title":"Register/Activate USSD code",
+              "ussd":"*919#",
+              "description":"To do this, dial *919# to see the Main Menu and select your desired option. If the user is not yet registered, she/he would be presented with registration options: With UBA Account or With UBA Prepaid Card.\n\nSimply select your preferred option and follow the prompt thereafter. Once done, you can start using the following USSD codes below on your mobile phone.\n\nAttribute: https://naijaknowhow.net/uba-ussd-codes"
+            },
+            {
+              "title":"Check balance",
+              "ussd":"*919*00#",
+              "description":"Attribute: https://naijaknowhow.net/uba-ussd-codes"
+            },
+            {
+              "title":"Airtime Top-Up for Self",
+              "ussd":"*919*Amount#",
+              "description":"Attribute: https://naijaknowhow.net/uba-ussd-codes"
+            },
+            {
+              "title":"Airtime Top-Up for Others",
+              "ussd":"*919* Phone number*Amount#",
+              "description":"Attribute: https://naijaknowhow.net/uba-ussd-codes"
+            },
+            {
+              "title":"Transfer to UBA Account",
+              "ussd":"*919*3*account number*Amount#",
+              "description":"Attribute: https://naijaknowhow.net/uba-ussd-codes"
+            },
+            {
+              "title":"Transfer to Other banks",
+              "ussd":"*919*4*account number*amount#",
+              "description":"Attribute: https://naijaknowhow.net/uba-ussd-codes"
+            },
+            {
+              "title":"Load UBA Prepaid Card",
+              "ussd":"*919*32#",
+              "description":"Attribute: https://naijaknowhow.net/uba-ussd-codes"
+            },
+            {
+              "title":"Pay bills",
+              "ussd":"*919*5#",
+              "description":"Attribute: https://naijaknowhow.net/uba-ussd-codes"
+            },
+            {
+              "title":"Block Debit Card",
+              "ussd":"*919*10#",
+              "description":"Attribute: https://naijaknowhow.net/uba-ussd-codes"
+            },
+            {
+              "title":"Freeze Online Transactions",
+              "ussd":"*919*9#",
+              "description":"Attribute: https://naijaknowhow.net/uba-ussd-codes"
+            },
+            {
+              "title":"Retrieve BVN",
+              "ussd":"*919*18#",
+              "description":"Attribute: https://naijaknowhow.net/uba-ussd-codes"
+            },
+            {
+              "title":"ATM cardless withdrawal",
+              "ussd":"*919*30*Amount#",
+              "description":"Attribute: https://naijaknowhow.net/uba-ussd-codes"
+            },
+            {
+              "title":"My Bank Statement",
+              "ussd":"*919*21#",
+              "description":"Attribute: https://naijaknowhow.net/uba-ussd-codes"
+            },
+            {
+              "title":"Generate OTP",
+              "ussd":"*919*8#",
+              "description":"Attribute: https://naijaknowhow.net/uba-ussd-codes"
+            },
+            {
+              "title":"Buy Data (Self)",
+              "ussd":"*919*14#",
+              "description":"Attribute: https://naijaknowhow.net/uba-ussd-codes"
+            },
+            {
+              "title":"Buy Data (3rd Party)",
+              "ussd":"*919*14*PhoneNumber#",
+              "description":"Attribute: https://naijaknowhow.net/uba-ussd-codes"
+            },
+            {
+              "title":"Smile Data Top-up",
+              "ussd":"*919*23#",
+              "description":"Attribute: https://naijaknowhow.net/uba-ussd-codes"
+            },
+            {
+              "title":"Deactivate UBA USSD code",
+              "ussd":"*919*911#",
+              "description":"Attribute: https://naijaknowhow.net/uba-ussd-codes"
+            },
+            {
+              "title":"Self-Enrolment – Registration",
+              "ussd":"*919*0#",
+              "description":"Attribute: https://naijaknowhow.net/uba-ussd-codes"
+            },
+            {
+              "title":"Baba Ijebu Wallet Funding",
+              "ussd":"*919*26*1#",
+              "description":"Attribute: https://naijaknowhow.net/uba-ussd-codes"
+            },
+            {
+              "title":"Bet9ja Wallet Funding",
+              "ussd":"*919*22*walletID*amount#",
+              "description":"Attribute: https://naijaknowhow.net/uba-ussd-codes"
+            },
+            {
+              "title":"Betking Wallet Funding",
+              "ussd":"*919*26*amount#",
+              "description":"Attribute: https://naijaknowhow.net/uba-ussd-codes"
+            },
+            {
+              "title":"Lottomania Wallet Funding",
+              "ussd":"*919*26*2#",
+              "description":"Attribute: https://naijaknowhow.net/uba-ussd-codes"
+            },
+            {
+              "title":"ARM Pensions",
+              "ussd":"*919*27*1#",
+              "description":"Attribute: https://naijaknowhow.net/uba-ussd-codes"
+            },
+            {
+              "title":"Oak Pensions",
+              "ussd":"*919*27*2#",
+              "description":"Attribute: https://naijaknowhow.net/uba-ussd-codes"
             }
           ]
         },
