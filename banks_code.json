@@ -227,6 +227,11 @@
               "description":"Dial *329*Amount*Mobile number# to buy airtime other mobile phones."
             },
             {
+              "title":"Buy But Electricity Bill",
+              "ussd":"*329*3*Amount*Meter No#",
+              "description":"Dial *329*3*Amount*Meter No# or *329*3*Amount*AccountID# to make your electricity bill payments."
+            },
+            {
               "title":"How to Check Balance",
               "ussd":"*329*00#",
               "description":"Dial *329*00# to check balance"
@@ -259,7 +264,7 @@
             {
               "title":"Block USSD Profile OR Bank Account",
               "ussd":"*329*911#",
-              "description":"Simply dial *329*911# from either Registered or Unregistered number."
+              "description":"Simply dial *329*911# from either Registered or Unregistered number.\n\n-Dial *329*911#\n-Select 1 for USSD Account\n-Select 2 for Bank Account\n-Enter Mobile Number or Bank Account Number\n-Confirm blocking of displayed Mobile Number/Bank Account and enter USSD 4 digit PIN\n\nAttribute https://www.fcmb.com/ussd"
             },
             {
               "title":"Link BVN",
@@ -475,14 +480,101 @@
         "Union Bank of Nigeria Plc": {
           "website": "https://www.unionbankng.com",
           "image": "https://raw.githubusercontent.com/Axxellance/all-nigeria-banks-ussd-code-json-data/main/imgs/commercial_bank/Union-bank-logo.png",
-          "description": "Union Bank of Nigeria Plc is a commercial bank in Nigeria. It has been operating in Nigeria since 1917. It's a large commercial bank, serving individuals, small and medium-sized companies, as well as large corporations and organizations. In July 2009, it was rated the 556th largest bank in the world and the 14th largest bank in Africa. As of Mar 31, 2018, the bank's asset base was estimated at NGN1, 381 billion (US$4.1billion). The shareholders' equity at that time was estimated at NGN286 billion (US$851 million).\n\nAttribute: https://en.wikipedia.org",
-          "codes": []
+          "description": "Union Bank of Nigeria Plc is a commercial bank in Nigeria. It has been operating in Nigeria since 1917. \n\nIt's a large commercial bank, serving individuals, small and medium-sized companies, as well as large corporations and organizations. \n\nIn July 2009, it was rated the 556th largest bank in the world and the 14th largest bank in Africa. \n\nAs of Mar 31, 2018, the bank's asset base was estimated at NGN1, 381 billion (US$4.1billion). \n\nThe shareholders' equity at that time was estimated at NGN286 billion (US$851 million).\n\nAttribute: https://en.wikipedia.org",
+          "codes": [
+            {
+              "title":"Check Balance",
+              "ussd":"*826*4#",
+              "description":"Attribute: https://www.unionbankng.com/personal/826-2/"
+            },
+            {
+              "title":"Buy Airtime for Yourself",
+              "ussd":"*826*Amount#",
+              "description":"Attribute: https://www.unionbankng.com/personal/826-2/"
+            },
+            {
+              "title":"Buy Airtime for Others",
+              "ussd":"*826*Amount*3rd party mobile No#",
+              "description":"Attribute: https://www.unionbankng.com/personal/826-2/"
+            },
+            {
+              "title":"Transfer Money to Union Bank",
+              "ussd":"*826*1*Amount*Account No#",
+              "description":"Attribute: https://www.unionbankng.com/personal/826-2/"
+            },
+            {
+              "title":"Transfer Money to Other Banks",
+              "ussd":"*826*2*Amount*Account no#",
+              "description":"Attribute: https://www.unionbankng.com/personal/826-2/"
+            },
+            {
+              "title":"Cardless Withdrawal",
+              "ussd":"*826*7*amount#",
+              "description":"Attribute: https://www.unionbankng.com/personal/826-2/"
+            },
+            {
+              "title":"Locate a Branch/Union Direct Agent",
+              "ussd":"*826*19#",
+              "description":"Attribute: https://www.unionbankng.com/personal/826-2/"
+            },
+            {
+              "title":"Request a Debit Card",
+              "ussd":"*826*21#",
+              "description":"Attribute: https://www.unionbankng.com/personal/826-2/"
+            },
+            {
+              "title":"Request a Loan",
+              "ussd":"*826*41#",
+              "description":"Attribute: https://www.unionbankng.com/personal/826-2/"
+            },
+            {
+              "title":"Data Purchase",
+              "ussd":"*826*9#",
+              "description":"Attribute: https://www.unionbankng.com/personal/826-2/"
+            },
+            {
+              "title":"Pay Merchants (mCash)",
+              "ussd":"*826*22*merchantcode*amount#",
+              "description":"Attribute: https://www.unionbankng.com/personal/826-2/"
+            },
+            {
+              "title":"Data Capture After Enrolment",
+              "ussd":"*826*3*account no#",
+              "description":"Attribute: https://www.unionbankng.com/personal/826-2/"
+            },
+            {
+              "title":"Block and Unblock Card",
+              "ussd":"*826*21#",
+              "description":"Attribute: https://www.unionbankng.com/personal/826-2/"
+            },
+            {
+              "title":"Limit Increase",
+              "ussd":"*826*8#",
+              "description":"Attribute: https://www.unionbankng.com/personal/826-2/"
+            },
+            {
+              "title":"Block Your Account",
+              "ussd":"*826*6#",
+              "description":"Block your account from your phone number\n\nAttribute: https://www.unionbankng.com/personal/826-2/"
+            },
+            {
+              "title":"Block Your Account",
+              "ussd":"*826*6*mobile number#",
+              "description":"Block your account from other phone numbers\n\nAttribute: https://www.unionbankng.com/personal/826-2/"
+            }
+          ]
         },
         "United Bank for Africa Plc": {
           "website": "https://www.ubagroup.com",
           "image": "https://raw.githubusercontent.com/Axxellance/all-nigeria-banks-ussd-code-json-data/main/imgs/commercial_bank/United_Bank_logo.png",
-          "description": "United Bank for Africa Plc (UBA) is a Multinational pan-African financial services group headquartered in Lagos and known as Africa’s Global Bank. It has subsidiaries in 20 African countries and offices in London, Paris and New York. In December 2021, UBA received its banking license to commence operations in the UAE. It is listed as commercial bank by the Central Bank of Nigeria. The shares of stock of the group are listed on the Nigerian Stock Exchange, where they trade under the symbol: UBA. The Group Chairman of the bank is Tony Elumelu and the GMD/CEO is Kennedy Uzoka.\n\nAttribute: https://en.wikipedia.org",
-          "codes": []
+          "description": "United Bank for Africa Plc (UBA) is a Multinational pan-African financial services group headquartered in Lagos and known as Africa’s Global Bank. \n\nIt has subsidiaries in 20 African countries and offices in London, Paris and New York. In December 2021, UBA received its banking license to commence operations in the UAE. It is listed as commercial bank by the Central Bank of Nigeria. \n\nThe shares of stock of the group are listed on the Nigerian Stock Exchange, where they trade under the symbol: UBA. The Group Chairman of the bank is Tony Elumelu and the GMD/CEO is Kennedy Uzoka.\n\nAttribute: https://en.wikipedia.org",
+          "codes": [
+            {
+              "title":"",
+              "ussd":"",
+              "description":""
+            }
+          ]
         },
         "Zenith Bank Plc": {
           "website": "https://www.ubagroup.com",
