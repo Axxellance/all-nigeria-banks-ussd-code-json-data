@@ -699,8 +699,14 @@
         "Zenith Bank Plc": {
           "website": "https://www.ubagroup.com",
           "image": "https://raw.githubusercontent.com/Axxellance/all-nigeria-banks-ussd-code-json-data/main/imgs/commercial_bank/Zenith_Bank_logo.svg.png",
-          "description": "Zenith Bank Plc is a large financial service provider in Nigeria and Anglophone West Africa. It is licensed as a commercial bank by the Central Bank of Nigeria, the national banking regulator. As of 31 December 2019, it holds $16.1bn in total assets, with shareholders' equity of $854 million. The company is listed on the Nigeria Stock Exchange and the London Stock Exchange. The founder of Zenith bank plc is Jim Ovia. Zenith Bank was established in May 1990 and commenced banking operations in July of the same year. At inception, it had a capital base of $4 million. It began operations during a period of government liberalization of the banking sector when the central bank granted up to twenty banking licenses a year to investors. The bank's first office was originally a residential house in Victoria Island that was modified into a banking hall. In its early years, the bank witnessed a period of rapid growth. In 1997, following a directive for banking institutions to shore up their capital base, Zenith increased its capitalization to 500 million naira.\n\nAttribute: https://en.wikipedia.org",
-          "codes": []
+          "description": "Zenith Bank Plc is a large financial service provider in Nigeria and Anglophone West Africa. It is licensed as a commercial bank by the Central Bank of Nigeria, the national banking regulator. \n\nAs of 31 December 2019, it holds $16.1bn in total assets, with shareholders' equity of $854 million. The company is listed on the Nigeria Stock Exchange and the London Stock Exchange. \n\nThe founder of Zenith bank plc is Jim Ovia. Zenith Bank was established in May 1990 and commenced banking operations in July of the same year. At inception, it had a capital base of $4 million. \n\nIt began operations during a period of government liberalization of the banking sector when the central bank granted up to twenty banking licenses a year to investors. \n\nThe bank's first office was originally a residential house in Victoria Island that was modified into a banking hall. In its early years, the bank witnessed a period of rapid growth. \n\nIn 1997, following a directive for banking institutions to shore up their capital base, Zenith increased its capitalization to 500 million naira.\n\nAttribute: https://en.wikipedia.org",
+          "codes": [
+            {
+              "title":"",
+              "ussd":"",
+              "description":""
+            }
+          ]
         }
       }
     },
