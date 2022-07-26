@@ -702,6 +702,66 @@
           "description": "Zenith Bank Plc is a large financial service provider in Nigeria and Anglophone West Africa. It is licensed as a commercial bank by the Central Bank of Nigeria, the national banking regulator. \n\nAs of 31 December 2019, it holds $16.1bn in total assets, with shareholders' equity of $854 million. The company is listed on the Nigeria Stock Exchange and the London Stock Exchange. \n\nThe founder of Zenith bank plc is Jim Ovia. Zenith Bank was established in May 1990 and commenced banking operations in July of the same year. At inception, it had a capital base of $4 million. \n\nIt began operations during a period of government liberalization of the banking sector when the central bank granted up to twenty banking licenses a year to investors. \n\nThe bank's first office was originally a residential house in Victoria Island that was modified into a banking hall. In its early years, the bank witnessed a period of rapid growth. \n\nIn 1997, following a directive for banking institutions to shore up their capital base, Zenith increased its capitalization to 500 million naira.\n\nAttribute: https://en.wikipedia.org",
           "codes": [
             {
+              "title":"Register Zenith bank USSD code",
+              "ussd":"*966#",
+              "description":"To start enjoying USSD code zenith bank, there is need to register on Zenith easybanking system. The following steps below will guide you on how to go about it:\n\n-On the phone number that is registered with your Zenith bank account, simply dial *966*0#\n-You will be ask to enter the last 4 digits of your ATM card (Debit card)\n-Next prompt will display your Account Name and request you to create a 4 digit PIN\n-Confirm the 4 digit PIN again\n-If it’s done properly, you will receive SMS “Retrieving your balance”\n-Lastly, you’ll receive an SMS with the summary balances on your Zenith bank accounts\n\nAttribute: https://www.genguide.com.ng/zenith-bank-ussd-code"
+            },
+            {
+              "title":"Buy Airtime (self)",
+              "ussd":"*966*amount#",
+              "description":"\n\nAttribute: https://www.genguide.com.ng/zenith-bank-ussd-code"
+            },
+            {
+              "title":"Buy Airtime (others)",
+              "ussd":"*966*Amount*Mobile Number#",
+              "description":"\n\nAttribute: https://www.genguide.com.ng/zenith-bank-ussd-code"
+            },
+            {
+              "title":"Zenith bank transfer code",
+              "ussd":"*966*Amount*Account Number#",
+              "description":"The USSD code used to transfer money from Zenith bank account to another Zenith bank account or any other banks account in Nigeria is *966*Amount*Account Number#.\n\nOnce you dial *966*Amount*Account Number# which is the Zenith transfer code on the phone number which you use in registering your Zenith bank account, you’ll be prompt to complete the transfer using your Zenith 4-digit authentication PIN.\n\nNB: This is the PIN you create at the point of registering Zenith bank easybanking as stated above in the “Register Zenith bank EazyBanking USSD Code” steps\n\nAttribute: https://www.genguide.com.ng/zenith-bank-ussd-code"
+            },
+            {
+              "title":"Check Account Balance",
+              "ussd":"*966*00#",
+              "description":"\n\nAttribute: https://www.genguide.com.ng/zenith-bank-ussd-code"
+            },
+            {
+              "title":"Update BVN Details",
+              "ussd":"*966*BVN#",
+              "description":"\n\nAttribute: https://www.genguide.com.ng/zenith-bank-ussd-code"
+            },
+            {
+              "title":"Manage Cardless Withdrawal",
+              "ussd":"*966*60#",
+              "description":"*966*60# and select the option 7\n\nAttribute: https://www.genguide.com.ng/zenith-bank-ussd-code"
+            },
+            {
+              "title":"Deactivate EazyBanking/USSD Profile",
+              "ussd":"*966*20*0#",
+              "description":"After activating Zeanith bank EasyBanking, deactivating it is never a problem. Here, I’ll be showing you how to deactivate Zenith bank account from USSD code related services.\n\nReasons while most people choose to deactivate this feature is protect their Zenith bank account so as to stop all debit transactions from their account in case of scammer or been defraud offline or online.\n\nSo to deactivate the Zenith bank easybanking service, simply dial *966*911#. The good thing is that is not on only phone number that is link with your account but from any mobile phone.\n\nOnce you dial *966*911# and enter your account number then you’ll be ask to enter your AlertZ mobile number if done, press option “1” to continue and instantly, your Zenith Bank account will be block.\n\nNote that to unblock your Zenith account, you’ll have to visit any Zenith Bank branch near you and get it activated again.\n\nAttribute: https://www.genguide.com.ng/zenith-bank-ussd-code"
+            },
+            {
+              "title":"Debuts Account Control",
+              "ussd":"*966*911#",
+              "description":"\n\nAttribute: https://www.genguide.com.ng/zenith-bank-ussd-code"
+            },
+            {
+              "title":"Open Zenith Bank Account",
+              "ussd":"*966*0#",
+              "description":"To open a Zenith bank account using USSD code, the below guide will tutor you on how you can open a Zenith bank account online using a USSD code in 2021:\n\n-Simply dial *966*0# to get started\n-A prompt will popup asking for your First and Last name, type them in and move to the next step.\n-You’ll have to create 4 digits PIN.\n-Also confirm the PIN.\n-If done correctly, you’ll get a message, thanking you for choosing Zenith Bank.\n-Lastly, SMS will be sent immediately with your new Zenith account numbers.\n\nNB: You don’t have to visit any Zenith bank branch or make use of any internet-enabled device before you can achieve this process. All you need is the right Zenith bank USSD code for account opening also following the right prompt.\n\nAttribute: https://www.genguide.com.ng/zenith-bank-ussd-code"
+            },
+            {
+              "title":"Reset USSD Password and PIN",
+              "ussd":"*966*60#",
+              "description":"\n\nAttribute: https://www.genguide.com.ng/zenith-bank-ussd-code"
+            },
+            {
+              "title":"Pay Bill",
+              "ussd":"*966*7*Amount*Customer ID#",
+              "description":"Pay bill (DStv, PHCN, and GOtv etc)\n\nAttribute: https://www.genguide.com.ng/zenith-bank-ussd-code"
+            },
+            {
               "title":"",
               "ussd":"",
               "description":""
